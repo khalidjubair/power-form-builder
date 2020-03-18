@@ -1,0 +1,23 @@
+{
+    "name": "khalidjubair/power-site-builder",
+    "description": "Power Site Builder Elementor Addons",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Khalid Jubair",
+            "email": "khalidjubair09@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PowerSiteBuilder\\": "includes/"
+        },
+        "files": [
+            
+        ]
+    }
+}
+ 
